@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Receitas de Biofertilizantes – 1 Litro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      padding: 20px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2e7d32;
+    }
+    .recipe {
+      margin-bottom: 30px;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    em {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Receitas de Biofertilizantes Líquidos – 1 Litro</h1>
+
+<div class="recipe" id="algas">
+  <h2>🌿 Algas Marinhas</h2>
+  <ul>
+    <li><strong>Ingredientes:</strong> 100 g de algas secas, 1 litro de água</li>
+    <li><strong>Preparo:</strong> Fermentar 7 dias, coar antes de usar</li>
+    <li><em>Aplicação:</em> Diluir 100 mL do concentrado em 1 litro de água e aplicar com mangueira na base das plantas</li>
+  </ul>
+</div>
+
+<div class="recipe" id="borra">
+  <h2>☕ Borra de Café</h2>
+  <ul>
+    <li><strong>Ingredientes:</strong> 200 g de borra de café, 1 litro de água, 10 g de melaço (opcional)</li>
+    <li><strong>Preparo:</strong> Fermentar 5 dias, coar antes de usar</li>
+    <li><em>Aplicação:</em> Diluir 100 mL do concentrado em 0,5 litro de água e aplicar com mangueira na base das plantas</li>
+  </ul>
+</div>
+
+<div class="recipe" id="compostos">
+  <h2>🧪 Compostos Vegetais Fermentados (Bokashi Líquido)</h2>
+  <ul>
+    <li><strong>Ingredientes:</strong> 300 g de restos vegetais, 100 mL de melado, 1 litro de água</li>
+    <li><strong>Preparo:</strong> Fermentar 7–10 dias, mexer diariamente, coar antes de usar</li>
+    <li><em>Aplicação:</em> Diluir 100 mL do concentrado em 0,8 litro de água e aplicar com mangueira sobre o solo</li>
+  </ul>
+</div>
+
+<div class="recipe" id="hormonios">
+  <h2>🌱 Extratos de Plantas com Hormônios Vegetais</h2>
+  <ul>
+    <li><strong>Ingredientes:</strong> 50 g de folhas de neem ou moringa, 1 litro de água, 2 g de auxina</li>
+    <li><strong>Preparo:</strong> Macerar folhas, adicionar auxina, coar antes de usar</li>
+    <li><em>Aplicação:</em> Diluir 100 mL do concentrado em 1,5 litro de água e aplicar com mangueira na base da planta</li>
+  </ul>
+</div>
+
+<div class="recipe" id="melado">
+  <h2>🍯 Melado de Cana</h2>
+  <ul>
+    <li><strong>Ingredientes:</strong> 50 g de melado de cana, 1 litro de água</li>
+    <li><strong>Preparo:</strong> Misturar, fermentar 3–5 dias, coar antes de usar</li>
+    <li><em>Aplicação:</em> Diluir 100 mL do concentrado em 1 litro de água e aplicar com mangueira sobre o solo</li>
+  </ul>
+</div>
+
+</body>
+</html>
